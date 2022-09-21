@@ -1,0 +1,85 @@
+
+.apple{
+    background-image: url("../images/apple-pie.jpg");
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+
+    display:flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+section1{
+    text-align: center;
+    margin:100px;
+    text-decoration: solid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 215%;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.form img{
+    text-align: center;
+    margin:100px;   
+    display: flex;
+    flex-direction: column;
+    justify-self: center; 
+    
+}
+
+body{
+    margin: 0;
+}
+
+section2{
+display: flex;
+flex-direction: column;
+margin: 100px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: bolder;
+font-size: 150%;
+
+justify-content: center;
+}
+
+section3 li{
+    list-style-type: none;
+}
+
+section3{
+display: flex;
+margin: 100px;
+flex-direction: column;
+
+}
+
+section4{
+    display: flex;
+flex-direction: column;
+margin: 100px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: bolder;
+font-size: 150%;
+
+justify-content: center;
+}
+
+section5{
+    display: flex;
+    flex-direction: column;
+    margin: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+   
+    
+    justify-content: center; 
+}
+
